@@ -1,0 +1,20 @@
+{
+  "name": "week3-hw",
+  "version": "1.0.0",
+  "description": "Week 3 homework: GET and POST endpoints",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node autograder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.0"
+  }
+}
